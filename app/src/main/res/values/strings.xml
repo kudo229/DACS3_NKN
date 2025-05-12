@@ -1,0 +1,4 @@
+<resources>
+    <!-- Add other existing string resources here -->
+    <string name="user_image_desc">Description of the user image</string>
+</resources>
